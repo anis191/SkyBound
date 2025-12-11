@@ -118,10 +118,12 @@ This project is **MIT Licensed** – see the [LICENSE](LICENSE) file for details
 
 ---
 
-## Connect
+## 💻 Author
+**Anisul Alam**  
+Full-Stack Developer | Django | React | PostgreSQL
 
-* [GitHub](https://github.com/anis191)
-* [LinkedIn](https://www.linkedin.com/in/anisul-alam-a330042a9/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anisulalam/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://anisulalam.vercel.app/)
 
 ---
 
